@@ -12,9 +12,11 @@ Soy estudiante de Ingeniería Informática y apasionado por la Ingeniería de So
 
 ## 💼 Habilidades Profesionales
 - **Lenguajes de Programación y tecnologías:**  
-  `Python` `Java` `Git` `Linux (CentOS)` `Scripting Bash` `JavaScript` `TypeScript` `Angular` `C` `C++` `R`
+  `Python` `Java` `Git` `Linux (CentOS)` `Scripting Bash` `JavaScript` `CSS` `Oracle DB` `HTML` `SQL` `TypeScript` `Angular` `C` `C++` `R`
 - **Metodologías y buenas prácticas:**  
   `SCRUM` `KANBAN` `Principios SOLID` `Patrones de Diseño` `Patrones de Arquitectura de Software` `TDD (Java)`
+- **Habilidades interpersonales (Soft Skills):**  
+  `Aprendizaje rápido` `Trabajo en equipo` `Buenas habilidades de comunicación` `Liderazgo` `Resolución de problemas` `Flexibilidad y adaptabilidad` `Habilidades interpersonales`
 
 ## 🗣️ Idiomas
 - **Inglés B2**  
@@ -33,12 +35,25 @@ Soy estudiante de Ingeniería Informática y apasionado por la Ingeniería de So
   Este proyecto consiste en la creación de un guante MIDI interactivo. El guante MIDI permite la manipulación de música y sonidos a través de movimientos de altura, ofreciendo una forma innovadora y creativa de interactuar con la música. Este proyecto se centra en la integración de tecnología de sensores *(Placa Arduino y detector de proximidad) *y software* (`Python` y `RtMIDI` para la emulación del instrumento y la interfaz entre Arduino y DAW "Digital Audio Workstation")* para la creación de una experiencia musical única.
   - **Repositorio:** [Proyecto Guante MIDI en GitHub](https://github.com/antoniotorres02/proyecto_guante_midi)
 
+-   **mute-all-instagram-script**  
+  `JavaScript` `TypeScript`  
+  Un script diseñado para silenciar a todos los usuarios seguidos en Instagram usando TypeScript y la API no oficial de instagram, ejecutado en Node.Js con el objetivo de reducir el tiempo de uso de la aplicación.  
+    - **Repositorio:** [mute-all-instagram-script en GitHub](https://github.com/antoniotorres02/mute-all-instagram-script)
+
+- **oasis-angular**  
+  `Angular` `Firebase` `HTML` `CSS` `JavaScript`  
+  Marketplace creado durante el desarrollo de la asignatura Producción del Software usando Angular y Firebase como tecnologías y desarrollado usando Scrum y Kanban
+  - **Repositorio:** [oasis-web en GitHub](https://github.com/antoniotorres02/oasis-angular)
 
 
-
+  
 ## 🤝 Conéctate conmigo
 - 📍 **Ubicación:** Granada, España
 - 📞 **Teléfono:** +34 662 95 66 36
 - 📧 **Correo electrónico:** [torresbordonantonio@gmail.com](mailto:torresbordonantonio@gmail.com)
 - 🔗 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/antonio-javier-torres-bord%C3%B3n-644737252/)
+
+
+
+
 
