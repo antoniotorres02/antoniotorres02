@@ -29,8 +29,8 @@ Soy estudiante de Ingeniería Informática y apasionado por la Ingeniería de So
 ## 🌟 Proyectos de Interés
 
 - **Proyecto Guante MIDI**  
-  `C++` `Python` `Git` `RtMIDI` `PySerial` `LoopMIDI`
-  Este proyecto consiste en la creación de un guante MIDI interactivo. El guante MIDI permite la manipulación de música y sonidos a través de movimientos de altura, ofreciendo una forma innovadora y creativa de interactuar con la música. Este proyecto se centra en la integración de tecnología de sensores *(Placa Arduino y detector de proximidad)*y software*(´Python´ y ´RtMIDI´ para la emulación del instrumento y la interfaz entre Arduino y DAW "Digital Audio Workstation")* para la creación de una experiencia musical única.
+  `C++` `Python` `Git` `RtMIDI` `PySerial` `LoopMIDI`  
+  Este proyecto consiste en la creación de un guante MIDI interactivo. El guante MIDI permite la manipulación de música y sonidos a través de movimientos de altura, ofreciendo una forma innovadora y creativa de interactuar con la música. Este proyecto se centra en la integración de tecnología de sensores *(Placa Arduino y detector de proximidad) *y software* (`Python` y `RtMIDI` para la emulación del instrumento y la interfaz entre Arduino y DAW "Digital Audio Workstation")* para la creación de una experiencia musical única.
   - **Repositorio:** [Proyecto Guante MIDI en GitHub](https://github.com/antoniotorres02/proyecto_guante_midi)
 
 
