@@ -9,7 +9,7 @@ Soy estudiante de Ingeniería Informática y apasionado por la Ingeniería de So
 - **Grado en Ingeniería Informática**  
   Universidad de las Palmas de Gran Canaria (2020-2024)  
   *(**8,018, 2 matriculas de honor**, expectativa de terminar el grado en 4 años)*
-- **Programa de Movilidad SICUE**  
+- **Grado en Ingeniería Informática**  
   Universidad de Granada (2023-2024)
 
 ## 💼 Habilidades Profesionales
